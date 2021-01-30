@@ -1,4 +1,6 @@
-## Farai Mazhandu profile summary
+## Farai Mazhandu profile summary 
+
+<img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/Farai.jpg" width="450" height="350">
 
 I am the President of OneQuantum Africa, a chapter of [OneQuantum](https://onequantum.org/), the leading Quantum Tech community with virtual networking, member events, public summits attended by several thousand participants, mentorship programs, and many other perks, and VP of Strategy at [Interference Advisors](https://interference.consulting/), the leading data provider and advisory firm in Quantum Tech (you can access some of our free data at www.qisdata.com).
 

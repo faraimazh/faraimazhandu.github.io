@@ -32,7 +32,7 @@ My story is a testament to the power of being a global citizen and true thought 
 ## Africa quantum tech community
 <img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/QSS%20Wits%202019.png">
 
-## We take a lot of groupfies and host a lot of cocktail parties at our meetings
+## We take a lot of groupfies and host memorable cocktail parties at our meetings
 <img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/Groupfie1.jpg" width="700" height="550">
 
 ## Why we need a community in quantum

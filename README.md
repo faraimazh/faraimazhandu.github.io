@@ -38,6 +38,11 @@ My story is a testament to the power of being a global citizen and true thought 
 ## Why we need a community in quantum
 <img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/Quantumjokes.jpeg" width="500" height="450">
 
+## Events
+- [OneQuantum Africa Weekly Meetings](https://us02web.zoom.us/meeting/register/tZMoceyhrDMiHtCansNZCiGz5W7Ppwhbt1u5/)
+- [Quantum in Africa Summit|OneQuantum Africa](https://www.runtheworld.today/app/invitation/21920/)
+- [IQT New York](https://iqtevent.com/speakers/#)
+
 ## Follow my work and let's connect
 - [OneQuantum startups](https://onequantum.substack.com/)
 - [OneQuantum Africa](https://onequantumafrica.substack.com/)

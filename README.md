@@ -18,7 +18,7 @@ Africa can now tap into a rich seam of advanced technology solutions that are be
 
 I am inspired to encourage African entrepreneurs, investors, students, and officials to contribute in key roles as the sector steadily progresses toward commercial viability. My passion is to adapt and apply emerging technologies to solve unique problems bedeviling the continent.
 
-<img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/FaraiPic.jpg" width="700" height="550">
+<img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/2021-03-17%2019_22_12-Post%20_%20Feed%20_%20LinkedIn%20and%208%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge.png">
 
 ## Contributions
 As a data geek and [Qiskit Advocate](https://qiskit.org/advocates) (achieved through testing and certification), I have been invited to participate in the inaugural Quantum Computing Summer School (sponsored by WitsQ and IBM) and [Qiskit Camp Africa Hackathon](https://qiskit.org/events/africa/) (where I adapted my MSc project on NV centres and came up as first runner-up) in 2019. I have published in refereed journals, featured on panels with global thought leaders in technology (was recently on the panel on Building a Community with Open Source at the [IBM Quantum Summit 2020](https://ibm.6connex.com/event/quantumsummit/login) and judging panel for [Qiskit Hackathon Global 2020](https://qiskithackathon.global.bemyapp.com/#/event), and presented diverse workshops and lectures, as well as authored articles covering; IoT [read my publications here](https://www.iotforall.com/author/faraimazhandu) and quantum computing [read some of my contributions here](https://medium.com/@faraimazhandu). 

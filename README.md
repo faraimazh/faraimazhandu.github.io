@@ -43,7 +43,7 @@ My story is a testament to the power of being a global citizen and true thought 
 - [Quantum in Africa Summit | OneQuantum Africa May 12-13](https://www.runtheworld.today/app/invitation/21920/)
 - [IQT New York May 17-20](https://iqtevent.com/speakers/#)
 
-## Follow my work and let's connect
+## Follow me, subscribe and let's connect
 - [OneQuantum startups](https://onequantum.substack.com/)
 - [OneQuantum Africa](https://onequantumafrica.substack.com/)
 - [Facebook](https://www.facebook.com/farai.mazhandu/)

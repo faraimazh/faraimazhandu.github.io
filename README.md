@@ -40,6 +40,7 @@ My story is a testament to the power of being a global citizen and true thought 
 
 ## Events
 - [OneQuantum Africa Weekly Meetings](https://us02web.zoom.us/meeting/register/tZMoceyhrDMiHtCansNZCiGz5W7Ppwhbt1u5/)
+- [Alexandria Quantum Computing Hypatia Series. Quantum Tech News | 29 April @ 9 pm SAST](https://www.eventbrite.co.uk/e/alexandria-quantum-computing-hypatia-series-registration-152056305503?fbclid=IwAR26ELJrGCiMMqiPAhp9EWzYU1FC6x5-nYwQRcGJnFvu3xQHBYWd_ZAhaUA)
 - [Quantum in Africa Summit | OneQuantum Africa May 12-13](https://www.runtheworld.today/app/invitation/21920/)
 - [IQT New York May 17-20](https://iqtevent.com/speakers/#)
 

@@ -1,8 +1,8 @@
 ## Farai Mazhandu profile summary 
 
-<img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/FaraiPic.jpg" width="450" height="350">
+<img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/FaraiHeadshot2.jpg" width="450" height="350">
 
-I am the President of OneQuantum Africa, a chapter of [OneQuantum](https://onequantum.org/), the leading Quantum Tech community with virtual networking, member events, public summits attended by several thousand participants, mentorship programs, and many other perks, and VP of Strategy at [Interference Advisors](https://interference.consulting/), the leading data provider and advisory firm in Quantum Tech (you can access some of our free data at www.qisdata.com).
+I am the President of OneQuantum Africa, a chapter of [OneQuantum](https://onequantum.org/), the leading Quantum Tech community with virtual networking, member events, public summits attended by several thousand participants, mentorship programs, and many other perks, and also Co-founder of Bayete Quantum Technologies, a quantum startup out of Africa that partners organizations to help them navigate the quantum spectrum, achieve competitive advantage and realize value today through the adoption of appropriate quantum solutions. 
 
 <img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/GK6lB-public-funding-for-quantum-initiatives-by-country.png">
 
@@ -23,7 +23,7 @@ I am inspired to encourage African entrepreneurs, investors, students, and offic
 ## Contributions
 As a data geek and [Qiskit Advocate](https://qiskit.org/advocates) (achieved through testing and certification), I have been invited to participate in the inaugural Quantum Computing Summer School (sponsored by WitsQ and IBM) and [Qiskit Camp Africa Hackathon](https://qiskit.org/events/africa/) (where I adapted my MSc project on NV centres and came up as first runner-up) in 2019. I have published in refereed journals, featured on panels with global thought leaders in technology (was recently on the panel on Building a Community with Open Source at the [IBM Quantum Summit 2020](https://ibm.6connex.com/event/quantumsummit/login) and judging panel for [Qiskit Hackathon Global 2020](https://qiskithackathon.global.bemyapp.com/#/event), and presented diverse workshops and lectures, as well as authored articles covering; IoT [read my publications here](https://www.iotforall.com/author/faraimazhandu) and quantum computing [read some of my contributions here](https://medium.com/@faraimazhandu). 
 
-<img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/2021-04-04%2020_59_18-IQT%20Conference%20_%20Online%20Only%2C%20May%2017-20%2C%202021%20_%20New%20York%20City%20and%2013%20more%20pages%20.png">
+<img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/IQTNY2021.png">
 
 I devote much of my free time to philanthropy - contributing and volunteering to the community and am currently building an African quantum tech community through the OneQuantum Africa chapter and serve in the Enterprise Development Committee of the [ZNCC](https://zncc.co.zw/) focusing on ICT strategy and innovation.
 
@@ -33,7 +33,7 @@ My story is a testament to the power of being a global citizen and true thought 
 <img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/QSS%20Wits%202019.png">
 
 ## We take a lot of groupfies and host memorable cocktail parties at our meetings
-<img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/Groupfie1.jpg" width="700" height="550">
+<img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/OQA%20Summit%20Groupfie%2021920.jpeg">
 
 ## Why we need a community in quantum
 <img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/OneQuantum%20Africa%20_%20Why%20Quantum%20in%20Africa.png">

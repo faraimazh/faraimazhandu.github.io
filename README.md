@@ -1,17 +1,16 @@
 ## Farai Mazhandu profile summary 
 
-<img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/FaraiHeadshot2.jpg" width="450" height="350">
+<img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/CUboulder.jpeg">
 
-I am the President of OneQuantum Africa, a chapter of [OneQuantum](https://onequantum.org/), the leading Quantum Tech community with virtual networking, member events, public summits attended by several thousand participants, mentorship programs, and many other perks, and also Co-founder of Bayete Quantum Technologies, a quantum startup out of Africa that partners organizations to help them navigate the quantum spectrum, achieve competitive advantage and realize value today through the adoption of appropriate quantum solutions. 
+I am the President of OneQuantum Africa, a chapter of [OneQuantum](https://onequantum.org/), the leading Quantum Tech community with virtual networking, member events, public summits attended by several thousand participants, mentorship programs, and many other perks, and also Co-founder of [Bayete Quantum Technologies](http://bayetequantum.tech/), a quantum startup out of Africa that partners organizations to help them navigate the quantum spectrum, achieve competitive advantage and realize value today through the adoption of appropriate quantum solutions. 
+
+I am also a physics PhD student at the [Colorado School of Mines](https://quantumcreep.mines.edu/people/) - a background that has unlocked a great career for me at the nexus of bleeding-edge research and impact, one that has taken me around the world, and to high profile roles across academia, technology, and the built environment, I am also a co-founder and director at [Frontline Contracting](http://frontlinecontracting.co.za/) where I head up strategic innovation for disruptive technologies and identify pioneering ways to harness the transformative powers of IoT, AI, Machine Learning, and Quantum Computing. 
 
 <img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/GK6lB-public-funding-for-quantum-initiatives-by-country.png">
 
 You can learn more about our efforts here [OneQuantum Africa](https://onequantum.org/africa/)
 
 <img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/OQA%20new.png" width="450" height="350">
-
-A graduate with an MSc in Physics from the University of Witwatersrand - a qualification that has unlocked a great career for me at the nexus of bleeding-edge research and impact, one that has taken me around the world, and to high profile roles across academia, technology, and the built environment, I am also a co-founder and director at [Frontline Contracting](http://frontlinecontracting.co.za/) where I head up strategic innovation for disruptive technologies and identify pioneering ways to harness the transformative powers of IoT, AI, Machine Learning, and Quantum Computing. 
-
 
 ## Call-To-Action
 Africa can now tap into a rich seam of advanced technology solutions that are being explored globally, opening up fresh ways to measure, process and transmit information. The continent cannot simply cannot afford to be left out of the quantum revolution which will sit at the core of building new enterprises, future careers, and workforces as well as driving accessible innovation.

@@ -44,6 +44,7 @@ My story is a testament to the power of being a global citizen and true thought 
 - [IQT New York May 17-20](https://iqtevent.com/speakers/#)
 
 ## Follow me, subscribe and let's connect
+- [YouTube](https://youtube.com/playlist?list=PLdNag-7k6pt3UXmmrCHMHlBnTRI9duaGE)
 - [OneQuantum startups](https://onequantum.substack.com/)
 - [OneQuantum Africa](https://onequantumafrica.substack.com/)
 - [Facebook](https://www.facebook.com/farai.mazhandu/)

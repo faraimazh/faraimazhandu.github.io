@@ -4,13 +4,13 @@
 
 I am the President of OneQuantum Africa, a chapter of [OneQuantum](https://onequantum.org/), the leading Quantum Tech community with virtual networking, member events, public summits attended by several thousand participants, mentorship programs, and many other perks, and also Co-founder of [Bayete Quantum Technologies](http://bayetequantum.tech/), a quantum startup out of Africa that partners organizations to help them navigate the quantum spectrum, achieve competitive advantage and realize value today through the adoption of appropriate quantum solutions. 
 
-I am also a physics PhD student at the [Colorado School of Mines](https://quantumcreep.mines.edu/people/) - a background that has unlocked a great career for me at the nexus of bleeding-edge research and impact, one that has taken me around the world, and to high profile roles across academia, technology, and the built environment, I am also a co-founder and director at [Frontline Contracting](http://frontlinecontracting.co.za/) where I head up strategic innovation for disruptive technologies and identify pioneering ways to harness the transformative powers of IoT, AI, Machine Learning, and Quantum Computing. 
-
-<img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/GK6lB-public-funding-for-quantum-initiatives-by-country.png">
-
 You can learn more about our community efforts here [OneQuantum Africa](https://onequantum.org/africa/)
 
-<img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/OQA%20new.png" width="450" height="350">
+<img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/OQA_December_Event_Poster.png" width="450" height="350">
+
+I am also a physics PhD student at the [Colorado School of Mines](https://quantumcreep.mines.edu/people/) - a background that has unlocked a great career for me at the nexus of bleeding-edge research and impact, one that has taken me around the world, and to high profile roles across academia, technology, and the built environment, I am also a co-founder and non-executive director at [Frontline Contracting](http://frontlinecontracting.co.za/) where I advise on strategic innovation and digital transformation in the construction industry using IoT, AI, Machine Learning, and Quantum Computing. 
+
+<img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/QTStartupsMap.png">
 
 ## Call-To-Action
 Africa can now tap into a rich seam of advanced technology solutions that are being explored globally, opening up fresh ways to measure, process and transmit information. The continent cannot simply cannot afford to be left out of the quantum revolution which will sit at the core of building new enterprises, future careers, and workforces as well as driving accessible innovation.
@@ -22,9 +22,10 @@ I am inspired to encourage African entrepreneurs, investors, students, and offic
 ## Contributions
 As a data geek and [Qiskit Advocate](https://qiskit.org/advocates) (achieved through testing and certification), I have been invited to participate in the inaugural Quantum Computing Summer School (sponsored by WitsQ and IBM) and [Qiskit Camp Africa Hackathon](https://qiskit.org/events/africa/) (where I adapted my MSc project on NV centres and came up as first runner-up) in 2019. I have published in refereed journals, featured on panels with global thought leaders in technology (was recently on the panel on Building a Community with Open Source at the [IBM Quantum Summit 2020](https://ibm.6connex.com/event/quantumsummit/login) and judging panel for [Qiskit Hackathon Global 2020](https://qiskithackathon.global.bemyapp.com/#/event), and presented diverse workshops and lectures, as well as authored articles covering; IoT [read my publications here](https://www.iotforall.com/author/faraimazhandu) and quantum computing [read some of my contributions here](https://medium.com/@faraimazhandu). 
 
-<img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/IQTNY2021.png">
+<img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/Physicsworld.png">
+Read more here [Quantum 2.0 technology](https://physicsworld.com/a/quantum-2-0-technology-the-revolution-starts-in-the-december-2021-edition-of-physics-world/)
 
-I devote much of my free time to philanthropy - contributing and volunteering to the community and am currently building an African quantum tech community through the OneQuantum Africa chapter and serve in the Enterprise Development Committee of the [ZNCC](https://zncc.co.zw/) focusing on ICT strategy and innovation.
+I devote much of my free time to philanthropy - contributing and volunteering to the community and am currently building an African quantum tech community through the OneQuantum Africa chapter and serve in many organizations in Africa and beyond.
 
 My story is a testament to the power of being a global citizen and true thought leader – working every day to make a positive impact while also helping organizations understand and implement disruptive technologies that are fast reshaping the world around us.
 
@@ -42,7 +43,11 @@ My story is a testament to the power of being a global citizen and true thought 
 - [Superconducting Diamond as a platform for quantum technologies](https://www.researchgate.net/publication/340894777_Superconducting_Diamond_as_a_platform_for_quantum_technologies)
 
 ## Events
-- [OneQuantum Africa Weekly Meetings](https://us02web.zoom.us/meeting/register/tZMoceyhrDMiHtCansNZCiGz5W7Ppwhbt1u5/)
+- [OneQuantum Africa Networking Events](https://www.runtheworld.today/app/invitation/38002)
+- [S6 E2 Entangled Discussions Entangling the Old and the New](https://youtu.be/SrKtxHXEAag)
+- [The Future of Quantum Technology in Africa](https://youtu.be/3vbV3Y0f6Pk)
+- [Qiskit Seminar Series: Quantum Tech Communities](https://youtu.be/eDmIbJ_7i3c)
+- [Careers in Quantum 2021: EDI Panel](https://youtu.be/WPDPO1SS6Nk)
 - [Alexandria Quantum Computing Hypatia Series. Quantum Tech News | 29 April @ 9 pm SAST](https://www.eventbrite.co.uk/e/alexandria-quantum-computing-hypatia-series-registration-152056305503?fbclid=IwAR26ELJrGCiMMqiPAhp9EWzYU1FC6x5-nYwQRcGJnFvu3xQHBYWd_ZAhaUA)
 - [Quantum in Africa Summit | OneQuantum Africa May 12-13](https://www.runtheworld.today/app/invitation/21920/)
 - [IQT New York May 17-20](https://iqtevent.com/speakers/#)

@@ -1,4 +1,4 @@
-## Farai Mazhandu profile summary 
+## About me 
 
 <img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/CUboulder.jpeg">
 

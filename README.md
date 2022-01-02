@@ -23,7 +23,8 @@ I am inspired to encourage African entrepreneurs, investors, students, and offic
 As a data geek and [Qiskit Advocate](https://qiskit.org/advocates) (achieved through testing and certification), I have been invited to participate in the inaugural Quantum Computing Summer School (sponsored by WitsQ and IBM) and [Qiskit Camp Africa Hackathon](https://qiskit.org/events/africa/) (where I adapted my MSc project on NV centres and came up as first runner-up) in 2019. I have published in refereed journals, featured on panels with global thought leaders in technology (was recently on the panel on Building a Community with Open Source at the [IBM Quantum Summit 2020](https://ibm.6connex.com/event/quantumsummit/login) and judging panel for [Qiskit Hackathon Global 2020](https://qiskithackathon.global.bemyapp.com/#/event), and presented diverse workshops and lectures, as well as authored articles covering; IoT [read my publications here](https://www.iotforall.com/author/faraimazhandu) and quantum computing [read some of my contributions here](https://medium.com/@faraimazhandu). 
 
 <img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/Physicsworld.png">
-Read more here [Quantum 2.0 technology](https://physicsworld.com/a/quantum-2-0-technology-the-revolution-starts-in-the-december-2021-edition-of-physics-world/)
+
+Read more on [Quantum 2.0 technology](https://physicsworld.com/a/quantum-2-0-technology-the-revolution-starts-in-the-december-2021-edition-of-physics-world/) here.
 
 I devote much of my free time to philanthropy - contributing and volunteering to the community and am currently building an African quantum tech community through the OneQuantum Africa chapter and serve in many organizations in Africa and beyond.
 

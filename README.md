@@ -6,7 +6,7 @@ I am the President of OneQuantum Africa, a chapter of [OneQuantum](https://onequ
 
 You can learn more about our community efforts here [OneQuantum Africa](https://onequantum.org/africa/)
 
-<img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/OQA_December_Event_Poster.png" width="450" height="350">
+<img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/OQA_December_Event_Poster.png">
 
 I am also a physics PhD student at the [Colorado School of Mines](https://quantumcreep.mines.edu/people/) - a background that has unlocked a great career for me at the nexus of bleeding-edge research and impact, one that has taken me around the world, and to high profile roles across academia, technology, and the built environment, I am also a co-founder and non-executive director at [Frontline Contracting](http://frontlinecontracting.co.za/) where I advise on strategic innovation and digital transformation in the construction industry using IoT, AI, Machine Learning, and Quantum Computing. 
 

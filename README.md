@@ -8,7 +8,7 @@ I am also a physics PhD student at the [Colorado School of Mines](https://quantu
 
 <img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/GK6lB-public-funding-for-quantum-initiatives-by-country.png">
 
-You can learn more about our efforts here [OneQuantum Africa](https://onequantum.org/africa/)
+You can learn more about our community efforts here [OneQuantum Africa](https://onequantum.org/africa/)
 
 <img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/OQA%20new.png" width="450" height="350">
 

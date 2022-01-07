@@ -30,7 +30,7 @@ I devote much of my free time to philanthropy - contributing and volunteering to
 
 My story is a testament to the power of being a global citizen and true thought leader – working every day to make a positive impact while also helping organizations understand and implement disruptive technologies that are fast reshaping the world around us.
 
-## Africa quantum tech community
+## Africa quantum tech community courtesy of WitsQ
 <img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/QSS%20Wits%202019.png">
 
 ## We take a lot of groupfies and host memorable cocktail parties at our meetings

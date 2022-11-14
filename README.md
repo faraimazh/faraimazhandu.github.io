@@ -2,11 +2,9 @@
 
 <img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/CUboulder.jpeg">
 
-I am the President of OneQuantum Africa, a chapter of [OneQuantum](https://onequantum.org/), the leading Quantum Tech community with virtual networking, member events, public summits attended by several thousand participants, mentorship programs, and many other perks, and also Co-founder of [Bayete Quantum Technologies](http://bayetequantum.tech/), a quantum startup out of Africa that partners organizations to help them navigate the quantum spectrum, achieve competitive advantage and realize value today through the adoption of appropriate quantum solutions. 
+I am the Founder President of OneQuantum Africa, [OneQuantum](https://onequantum.org/) and Co-founder of [Bayete Quantum Technologies](http://bayetequantum.tech/), the leading enabler of quantum tech in Africa through platforms, insights, training, and matchmaking.
 
-You can learn more about our community efforts here [OneQuantum Africa](https://onequantum.org/africa/)
-
-<img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/OQA_December_Event_Poster.png">
+You can learn more about our vision for Africa here [BQT](https://www.linkedin.com/company/bayete-quantum-technologies/about/?viewAsMember=true)
 
 I am also a physics PhD student at the [Colorado School of Mines](https://quantumcreep.mines.edu/people/) - a background that has unlocked a great career for me at the nexus of bleeding-edge research and impact, one that has taken me around the world, and to high profile roles across academia, technology, and the built environment, I am also a co-founder and non-executive director at [Frontline Contracting](http://frontlinecontracting.co.za/) where I advise on strategic innovation and digital transformation in the construction industry using IoT, AI, Machine Learning, and Quantum Computing. 
 

@@ -24,7 +24,7 @@ As a data geek and [Qiskit Advocate](https://qiskit.org/advocates) (achieved thr
 
 <img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/Physicsworld.png">
 
-Read more on [Quantum 2.0 technology](https://physicsworld.com/a/quantum-2-0-technology-the-revolution-starts-in-the-december-2021-edition-of-physics-world/) here.
+Read more on [Quantum 2.0 technology](https://prod-physicsworld-iop.content.pugpig.com/blog/2021/11/24/ask-me-anything-farai-mazhandu/pugpig_index.html) here.
 
 I devote much of my free time to philanthropy - contributing and volunteering to the community and am currently building an African quantum tech community through the OneQuantum Africa chapter and serve in many organizations in Africa and beyond.
 

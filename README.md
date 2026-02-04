@@ -37,11 +37,11 @@ My story is a testament to the power of being a global citizen and true thought 
 ## Why we need a community in quantum
 <img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/OneQuantum%20Africa%20_%20Why%20Quantum%20in%20Africa.png">
 
-## Research Publications
+## Selected Research Publications
 - [Experimental Simulation of Hybrid Quantum Systems and Entanglement on a Quantum Computer](https://arxiv.org/pdf/1911.00897.pdf)
 - [Superconducting Diamond as a platform for quantum technologies](https://www.researchgate.net/publication/340894777_Superconducting_Diamond_as_a_platform_for_quantum_technologies)
 
-## Events
+## Selected Events
 - [OneQuantum Africa Networking Events](https://www.runtheworld.today/app/invitation/38002)
 - [S6 E2 Entangled Discussions Entangling the Old and the New](https://youtu.be/SrKtxHXEAag)
 - [The Future of Quantum Technology in Africa](https://youtu.be/3vbV3Y0f6Pk)

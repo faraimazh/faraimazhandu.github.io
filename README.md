@@ -1,4 +1,4 @@
-## About me *Not maintained* [For up to date info](https://www.linkedin.com/in/faraimazhandu/)
+## About me [For up to date info](https://www.linkedin.com/in/faraimazhandu/)
 
 <img src="https://github.com/faraimazh/faraimazhandu.github.io/blob/main/images/CUboulder.jpeg">
 
